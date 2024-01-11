@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Bloque { 
+    text-align: center;
+    
+    background-color: black;
+}
+.Bloque div{
+    display: inline-block;
+    font-size: 80px;
+    line-height: 80px;
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    margin: 5px;
+
+}
